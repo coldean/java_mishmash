@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mishmash:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mishmash_jar</output-path>
+    <root id="archive" name="Mishmash.jar">
+      <element id="module-output" name="Mishmash" />
+    </root>
+  </artifact>
+</component>
